@@ -19,6 +19,6 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.57.0"
+    "node-telegram-bot-api": "^0.65.0"
   }
 }
